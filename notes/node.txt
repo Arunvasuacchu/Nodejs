@@ -1,3 +1,6 @@
+CHAPTER - 1 
+Nodejs setups
+
 -Nodejs is a open source cross run time environment that is used to run javascript code in the browser.
 
 -we can run code using //Node index.js in our terminal.
@@ -8,9 +11,17 @@
   *in vanilla  javascript we can write only client side.
   *with the help of node we can also write backend.
 
+CHAPTER - 2 
+Node js FileSystem
+
   -js => const and require
 
   -mjs => import and export
 
   fs => filesystem
-  ``
+  fs.readFile => reading file
+  fs.writeFile => writing file
+  fs.appendFile => appendFile
+  fs.readFielStram => readingBigFile
+  fs.writeFileStream => write large file
+  
